@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/recall-ai-website/static/css/main.43ef31df.css",
+    "main.js": "/recall-ai-website/static/js/main.70f38007.js",
+    "static/js/453.19e11e3e.chunk.js": "/recall-ai-website/static/js/453.19e11e3e.chunk.js",
+    "static/media/app-screenshot2.png": "/recall-ai-website/static/media/app-screenshot2.8f252de60137c7814a42.png",
+    "static/media/prashanthead.jpeg": "/recall-ai-website/static/media/prashanthead.c323b1e592d3d30d7f0f.jpeg",
+    "static/media/harender.jpeg": "/recall-ai-website/static/media/harender.95535bfcc6804941ab08.jpeg",
+    "index.html": "/recall-ai-website/index.html",
+    "main.43ef31df.css.map": "/recall-ai-website/static/css/main.43ef31df.css.map",
+    "main.70f38007.js.map": "/recall-ai-website/static/js/main.70f38007.js.map",
+    "453.19e11e3e.chunk.js.map": "/recall-ai-website/static/js/453.19e11e3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43ef31df.css",
+    "static/js/main.70f38007.js"
+  ]
+}
